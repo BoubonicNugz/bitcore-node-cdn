@@ -11,7 +11,7 @@
   },
   "bin": {
     "bitcore-node-cdn": "./bin/bitcore-node-cdn",
-    "canadaecoind": "./bin/canadaecoind"
+    "canadaecoind": "/usr/local/bin/canadaecoind"
   },
   "scripts": {
     "jshint": "jshint --reporter=node_modules/jshint-stylish ./lib",
